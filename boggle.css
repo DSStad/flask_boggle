@@ -1,0 +1,12 @@
+.board {
+    table-layout: fixed;
+    width: 30%;
+    border-collapse: separate;
+}
+
+td {
+    padding: 5px;
+    background-color: blue;
+    text-decoration-color: white;
+    text-align: center;
+}
